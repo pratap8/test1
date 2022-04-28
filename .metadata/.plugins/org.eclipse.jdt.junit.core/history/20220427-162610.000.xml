@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestBeforeAfter" project="Demo1MavenEx" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.lti.demo1.TestBeforeAfter" time="0.0" displayname="TestBeforeAfter" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.TestBeforeAfter]">
+    <testcase name="Subtest" classname="com.lti.demo1.TestBeforeAfter" time="0.0" displayname="Subtest()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.TestBeforeAfter]/[method:Subtest()]"/>
+    <testcase name="test" classname="com.lti.demo1.TestBeforeAfter" time="0.0" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.TestBeforeAfter]/[method:test()]"/>
+  </testsuite>
+</testrun>

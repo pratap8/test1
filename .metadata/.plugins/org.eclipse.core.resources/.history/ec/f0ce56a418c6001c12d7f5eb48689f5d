@@ -1,0 +1,28 @@
+package com.lti.demo1;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+import com.lti.demos.Calculator;
+
+class TestBeforeAfter {
+	@BeforeAll
+	public static void dbTest() {
+		System.out.println("Yes it's up");
+	}
+
+	@Test
+	public void  test() {
+		Calculator c1 = new Calculator();
+		int result = c1.addNos(500, 250);
+		Assertions.assertEquals(750, result);
+	}
+	@Test
+	public void  Subtest() {
+		Calculator c1 = new Calculator();
+		int result = c1.subNos(500, 250);
+		Assertions.assertEquals(250, result);
+	}
+
+}

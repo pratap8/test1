@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Test1" project="Demo1MavenEx" tests="5" started="5" failures="0" errors="0" ignored="4">
+  <testsuite name="com.lti.demo1.Test1" time="0.001" displayname="Test1" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]">
+    <testcase name="testHello" classname="com.lti.demo1.Test1" time="0.0" ignored="true" displayname="testHello()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]/[method:testHello()]"/>
+    <testcase name="testMultiplication" classname="com.lti.demo1.Test1" time="0.0" ignored="true" displayname="testMultiplication()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]/[method:testMultiplication()]"/>
+    <testcase name="testAddition" classname="com.lti.demo1.Test1" time="0.001" ignored="true" displayname="testAddition()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]/[method:testAddition()]"/>
+    <testcase name="testAssertFalse" classname="com.lti.demo1.Test1" time="0.0" displayname="testAssertFalse()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]/[method:testAssertFalse()]"/>
+    <testcase name="testSubstraction" classname="com.lti.demo1.Test1" time="0.0" ignored="true" displayname="testSubstraction()" uniqueid="[engine:junit-jupiter]/[class:com.lti.demo1.Test1]/[method:testSubstraction()]"/>
+  </testsuite>
+</testrun>

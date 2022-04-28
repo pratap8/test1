@@ -1,0 +1,13 @@
+package calculator1;
+
+import com.lti.demos.Calculator;
+
+public class TestCalculatorProb2 {
+	public static void main(String[] args) {
+		CalculatorProb c1 = new CalculatorProb();
+		System.out.println("Addition of X and Y: "+c1.addNos(5, 9));
+		System.out.println("Substraction of X and Y: "+c1.subNos(5, 9));
+		System.out.println("Multiplication of X and Y: "+c1.mulNos(5, 9));
+
+	}
+}
